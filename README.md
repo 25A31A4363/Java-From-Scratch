@@ -1,2 +1,35 @@
-# Java-From-Scratch
-🚀 A repository of my daily Java practice programs, from basic syntax to advanced concepts, showcasing my continuous learning and coding journey.
+# ☕ Java From Scratch
+
+Welcome to **Java From Scratch**! 🚀
+
+This repository documents my journey of learning **Java** from the very beginning. It contains daily practice programs, concept-based examples, and coding exercises that help me build a strong foundation in Java programming.
+
+## 📚 Topics Covered
+
+- Hello World
+
+## 🎯 Goal
+
+- Learn Java step by step.
+- Practice coding consistently.
+- Build a strong programming foundation.
+- Improve problem-solving skills.
+- Document my learning journey.
+
+## 💻 Technologies
+
+- Java
+- JDK 21 (or your installed version)
+
+## 📈 Progress
+
+- ✅ Day 1 – Hello World
+- ⏳ More programs coming soon...
+
+## 🤝 Contributions
+
+This is a personal learning repository, but suggestions and improvements are always welcome.
+
+---
+
+⭐ If you find this repository helpful, feel free to star it!
