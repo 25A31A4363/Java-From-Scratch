@@ -8,6 +8,7 @@ This repository documents my journey of learning **Java** from the very beginnin
 
 - Hello World
 - Default Values of Primitive Data types
+- Roots of Quadratic Equation
 
 ## 🎯 Goal
 
