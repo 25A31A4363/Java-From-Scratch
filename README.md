@@ -7,6 +7,7 @@ This repository documents my journey of learning **Java** from the very beginnin
 ## 📚 Topics Covered
 
 - Hello World
+- Default Values of Primitive Data types
 
 ## 🎯 Goal
 
