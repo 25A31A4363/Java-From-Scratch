@@ -10,6 +10,7 @@ This repository documents my journey of learning **Java** from the very beginnin
 - Default Values of Primitive Data types
 - Roots of Quadratic Equation
 - Variables
+- Operators
 ## 🎯 Goal
 
 - Learn Java step by step.
@@ -22,11 +23,6 @@ This repository documents my journey of learning **Java** from the very beginnin
 
 - Java
 - JDK 21 (or your installed version)
-
-## 📈 Progress
-
-- ✅ Day 1 – Hello World
-- ⏳ More programs coming soon...
 
 ## 🤝 Contributions
 
