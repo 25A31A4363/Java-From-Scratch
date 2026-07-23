@@ -11,7 +11,7 @@ This repository documents my journey of learning **Java** from the very beginnin
 - Roots of Quadratic Equation
 - Variables
 - Operators
-- Conditional Operators
+- Conditional Statements
 ## 🎯 Goal
 
 - Learn Java step by step.
