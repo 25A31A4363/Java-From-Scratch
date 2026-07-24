@@ -12,6 +12,7 @@ This repository documents my journey of learning **Java** from the very beginnin
 - Variables
 - Operators
 - Conditional Statements
+- Loops
 ## 🎯 Goal
 
 - Learn Java step by step.
