@@ -13,7 +13,7 @@ This repository documents my journey of learning **Java** from the very beginnin
 - Operators
 - Conditional Statements
 - Loops
-- Swapping Two Numbers using temp(t) variables
+- Swapping Two Numbers using temp(t) variable
 ## 🎯 Goal
 
 - Learn Java step by step.
