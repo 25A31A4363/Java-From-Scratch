@@ -14,6 +14,7 @@ This repository documents my journey of learning **Java** from the very beginnin
 - Conditional Statements
 - Loops
 - Swapping Two Numbers using temp(t) variable
+- Arithmetic Operations
 ## 🎯 Goal
 
 - Learn Java step by step.
