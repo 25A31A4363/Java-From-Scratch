@@ -16,6 +16,8 @@ This repository documents my journey of learning **Java** from the very beginnin
 - Swapping Two Numbers using temp(t) variable
 - Scanner Input Program
 - Arithmetic Operations
+- Positive Number
+- Even OR Odd
 ## 🎯 Goal
 
 - Learn Java step by step.
