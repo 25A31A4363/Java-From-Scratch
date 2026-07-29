@@ -18,6 +18,7 @@ This repository documents my journey of learning **Java** from the very beginnin
 - Arithmetic Operations
 - Positive Number
 - Even OR Odd
+- Square Root of a Number
 ## 🎯 Goal
 
 - Learn Java step by step.
