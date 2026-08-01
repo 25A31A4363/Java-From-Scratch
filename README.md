@@ -20,6 +20,7 @@ This repository documents my journey of learning **Java** from the very beginnin
 - Even OR Odd
 - Square Root of a Number
 - Calculator using switch case
+- Array Elements
 ## 🎯 Goal
 
 - Learn Java step by step.
