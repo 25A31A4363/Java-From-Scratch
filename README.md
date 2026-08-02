@@ -21,6 +21,7 @@ This repository documents my journey of learning **Java** from the very beginnin
 - Square Root of a Number
 - Calculator using switch case
 - Array Elements
+- Mathematical Functions using Math(keyword)
 ## 🎯 Goal
 
 - Learn Java step by step.
