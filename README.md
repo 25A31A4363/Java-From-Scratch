@@ -23,6 +23,7 @@ This repository documents my journey of learning **Java** from the very beginnin
 - Array Elements
 - Mathematical Functions using Math(keyword)
 - User Input and Operations on Array
+- Command Line Arguments
 ## 🎯 Goal
 
 - Learn Java step by step.
