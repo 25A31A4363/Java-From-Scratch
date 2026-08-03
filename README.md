@@ -22,6 +22,7 @@ This repository documents my journey of learning **Java** from the very beginnin
 - Calculator using switch case
 - Array Elements
 - Mathematical Functions using Math(keyword)
+- User Input and Operations on Array
 ## 🎯 Goal
 
 - Learn Java step by step.
