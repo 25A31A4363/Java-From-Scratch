@@ -24,6 +24,7 @@ This repository documents my journey of learning **Java** from the very beginnin
 - Mathematical Functions using Math(keyword)
 - User Input and Operations on Array
 - Command Line Arguments
+- Type Casting and Its Types
 ## 🎯 Goal
 
 - Learn Java step by step.
