@@ -26,6 +26,9 @@ This repository documents my journey of learning **Java** from the very beginnin
 - Command Line Arguments
 - Type Casting and Its Types
 - Constructor
+- Default Constructor
+- Constructor with Arguments
+- this keyword
 ## 🎯 Goal
 
 - Learn Java step by step.
