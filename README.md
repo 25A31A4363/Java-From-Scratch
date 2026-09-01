@@ -25,6 +25,7 @@ This repository documents my journey of learning **Java** from the very beginnin
 - User Input and Operations on Array
 - Command Line Arguments
 - Type Casting and Its Types
+- Constructor
 ## 🎯 Goal
 
 - Learn Java step by step.
